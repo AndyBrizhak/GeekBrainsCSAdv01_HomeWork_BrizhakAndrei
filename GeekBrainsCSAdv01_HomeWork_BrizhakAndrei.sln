@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GeekBrainsCSAdv01_HomeWork_BrizhakAndrei", "GeekBrainsCSAdv01_HomeWork_BrizhakAndrei\GeekBrainsCSAdv01_HomeWork_BrizhakAndrei.shproj", "{06234936-49B7-460C-8B4A-E6FA654988AE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A4EF0F48-9B37-47B4-84AE-07489CE0750E}"
+	ProjectSection(SolutionItems) = preProject
+		BaseObject.cs = BaseObject.cs
+		Game.cs = Game.cs
+		Program.cs = Program.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		GeekBrainsCSAdv01_HomeWork_BrizhakAndrei\GeekBrainsCSAdv01_HomeWork_BrizhakAndrei.projitems*{06234936-49b7-460c-8b4a-e6fa654988ae}*SharedItemsImports = 13
